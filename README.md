@@ -25,6 +25,7 @@ My challenge was to create a program to stimulate a game of war. A user is able 
 ## Technologies
 * Ruby 2.7.2
 * RSpec
+* Pry
 * Atom
 * Git
 

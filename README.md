@@ -1,4 +1,5 @@
-# War or Peace
+<h1 align="center">⚔️ War or Peace 🛡️ </h1>
+
 ![GitHub language count](https://img.shields.io/github/languages/count/naomiyocum/war_or_peace)
 ![GitHub top language](https://img.shields.io/github/languages/top/naomiyocum/war_or_peace?color=yellow)
 
